@@ -40,6 +40,4 @@ const styles = {
     top: -9
   }
 };
-
-
 export default Navbar;
